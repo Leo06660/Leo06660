@@ -3,11 +3,13 @@
 </div>
 
 <div id="badges" align="center">
+  <a>&ensp;&ensp;&ensp;&ensp;</a>
   <a href="https://www.linkedin.com/in/yi-li-chen-leo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" height="20" alt="LinkedIn Badge"/>
   </a>
+  <a>&ensp;</a>
   <a href="https://public.tableau.com/app/profile/yi.li.chen">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+    <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="Tableau Badge"/>
   </a>
 </div>
 
