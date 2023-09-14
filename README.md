@@ -1,4 +1,4 @@
-### Hi I'm Yi-Li Chen (https://www.linkedin.com/in/yi-li-chen-leo/) 👋
+### Hi I'm [Yi-Li Chen] (https://www.linkedin.com/in/yi-li-chen-leo/) 👋
 
 <!--
 **Leo06660/Leo06660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
