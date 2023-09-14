@@ -1,4 +1,8 @@
-### Hi I'm [Yi-Li Chen](https://www.linkedin.com/in/yi-li-chen-leo/) 👋
+<div align="center">
+  <h3>Hi I'm <a href="https://www.linkedin.com/in/yi-li-chen-leo/">Yi-Li Chen</a> 👋</h3>
+  <p>Detail-oriented professional with 5+ years of hands-on data analytics experience in SQL, Python, R and Tableau, translating business requirements into solutions, and collaborating with cross-functional teams to drive data-driven decision-making</p>
+</div>
+
 
 <!--
 **Leo06660/Leo06660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
