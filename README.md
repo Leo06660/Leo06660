@@ -24,11 +24,14 @@
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/snowflake-%2356B9EB.svg?&style=for-the-badge&logo=snowflake&logoColor=black" />
   <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 </div>
 
 <div id="header" align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
 </div>
