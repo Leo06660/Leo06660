@@ -33,6 +33,7 @@
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
 </div>
 
